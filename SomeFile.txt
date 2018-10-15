@@ -5,4 +5,11 @@ Some change
 
 Another change
 
+<<<<<<< HEAD
 Testflight Hello
+=======
+Testflight
+
+
+Yo
+>>>>>>> b309101... bla
